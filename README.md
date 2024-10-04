@@ -8,3 +8,11 @@ proyek ini menggunakan library yaitu pandas, matplotlib, seaborn, dan streamlit.
 pip install pandas matplotlib seaborn streamlit
 
 ```
+
+# Streamlit Dashboard
+untuk menjalankan Streamlit Dashboard dapat menggunakan :
+```
+
+streamlit run dashboard.py
+
+```
