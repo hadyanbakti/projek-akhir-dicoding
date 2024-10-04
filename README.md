@@ -4,15 +4,11 @@ projek ini adalah projek akhir dicoding untuk kelas Belajar Analisis Data dengan
 # Noted
 proyek ini menggunakan library yaitu pandas, matplotlib, seaborn, dan streamlit. Untuk menginstall library itu anda bisa menggunakan :
 ```
-
 pip install pandas matplotlib seaborn streamlit
-
 ```
 
 # Streamlit Dashboard
 untuk menjalankan Streamlit Dashboard dapat menggunakan :
 ```
-
 streamlit run dashboard.py
-
 ```
